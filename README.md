@@ -11,3 +11,6 @@
 
 ### 4. YOLOv9_Learning What You Want to Learn Using Programmable Gradient Information
 [Velog - YOLOv9_Learning What You Want to Learn Using PGI](https://velog.io/@hyunjoon0803/%EB%85%BC%EB%AC%B8-YOLOv9-Learning-What-You-Want-to-Learn-Using-Programmable-Gradient-Information)
+
+### 5. You Look Only Once : Unified, Real-Time Object Detection
+[Velog - You Look Only Once : Unified, Real-Time Object Detection](https://velog.io/@hyunjoon0803/%EB%85%BC%EB%AC%B8-You-Only-Look-Once-Unified-Real-Time-Object-Detection)
