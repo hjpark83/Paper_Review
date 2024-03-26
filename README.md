@@ -14,3 +14,6 @@
 
 ### 5. You Look Only Once : Unified, Real-Time Object Detection
 [Velog - You Look Only Once : Unified, Real-Time Object Detection](https://velog.io/@hyunjoon0803/%EB%85%BC%EB%AC%B8-You-Only-Look-Once-Unified-Real-Time-Object-Detection)
+
+### 6. Drone Object Detection Using RGB/IR Fusion
+[Github.io - Drone Object Detection Using RGB/IR Fusion](https://hyunjoon83.github.io/paper/2024/03/24/Drone-Object-Detection/)
